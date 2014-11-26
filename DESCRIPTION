@@ -1,0 +1,8 @@
+Package: Mathematica4R
+Version: 0.1.0
+Title: Mathematica from R
+Author: Cqls Team
+Maintainer: Remy Drouilhet <remy.drouilhet@upmf-grenoble.fr>
+Description: Interface to Mathematica from R side
+License: GPL Version 2 or later.
+Archs: x86_64

@@ -1,0 +1,3 @@
+MATHLINK := '/Applications/Mathematica.app/SystemFiles/Links/MathLink/DeveloperKit/MacOSX-x86-64/CompilerAdditions'
+PKG_CFLAGS = -I$(MATHLINK)
+PKG_LIBS = -F$(MATHLINK) -framework mathlink -framework CoreFoundation
